@@ -10,6 +10,7 @@ This repository contains the material required for DevOps, SRE, DSA, and System 
 
 ### Data Structures and Algorithms with Python
 - [Udemy: Data Structures and Algorithms in Python](https://www.udemy.com/course/data-structures-and-algorithms-in-python-gb)
+- (https://www.w3schools.com/dsa/index.php)
 
 ### System Design
 - [Udemy: System Design Masterclass](https://www.udemy.com/course/system-design-masterclass)
