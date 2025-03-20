@@ -7,6 +7,7 @@ This repository contains the material required for DevOps, SRE, DSA, and System 
 ### Python 3
 - [Plural Sight](https://app.pluralsight.com/paths/skills/python-3)
 - [Udemy: Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp)
+- Practice Online: https://www.online-python.com/
 
 ### Data Structures and Algorithms with Python
 - [Udemy: Data Structures and Algorithms in Python](https://www.udemy.com/course/data-structures-and-algorithms-in-python-gb)
